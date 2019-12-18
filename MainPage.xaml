@@ -39,7 +39,7 @@
         <!-- Customer list -->
         <Grid Grid.Row="1"
           x:Name="customerListGrid"
-          Background="#EEEEEE">
+          Background="Gray">
             <Grid.RowDefinitions>
                 <RowDefinition Height="Auto"/>
                 <RowDefinition/>
